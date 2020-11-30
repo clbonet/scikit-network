@@ -2,6 +2,41 @@
 History
 =======
 
+0.20.0 (2020-10-20)
+-------------------
+
+* Added betweenness algorithm by Tiphaine Viard (#444)
+
+0.19.3 (2020-09-17)
+-------------------
+
+* Added Louvain-based embedding
+* Fix documentation with new dataset website URLs
+
+0.19.2 (2020-09-14)
+-------------------
+
+* Fix documentation with new dataset website URLs.
+
+0.19.1 (2020-09-09)
+-------------------
+
+* Fix visualization features
+* Fix documentation
+
+0.19.0 (2020-09-02)
+-------------------
+
+* Added link prediction module
+* Added pie-node visualization of memberships
+* Added Weisfeiler-Lehman graph coloring by Pierre Pebereau and Alexis Barreaux (#394)
+* Added Force Atlas 2 graph layout by Victor Manach and Rémi Jaylet (#396)
+* Added triangle listing algorithm for directed and undirected graph by Julien Simonnet and Yohann Robert (#376)
+* Added k-core decomposition algorithm by Julien Simonnet and Yohann Robert (#377)
+* Added k-clique listing algorithm by Julien Simonnet and Yohann Robert (#377)
+* Added color map option in visualization module
+* Updated NetSet URL
+
 0.18.0 (2020-06-08)
 -------------------
 
